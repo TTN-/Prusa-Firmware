@@ -1,3 +1,9 @@
+# Prusa MK2E version firmware: Add PINDA temperature compensation to MK2
+This is a fork of the offical prusa i3 MK3 firmware, modified to work with MK2 and MK2S. This way you get all the latest features and has support for the temperature compensating PINDA v2 probe, and even the v1 PINDA probe if you add a thermistor. See the [guide on how to use this feature on the MK2](https://github.com/PrusaOwners/prusaowners/blob/master/MK2%20PINDA%20temperature%20compensation%20retrofit.md)
+MK2 and MK2S printers with this temperature compensation mod have been given the E signifier, ie, MK2E or MK2SE.
+
+
+
 # 1. Development environment preparation
 
    1. install `"Arduino Software IDE"` for your preferred operating system  
